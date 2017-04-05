@@ -436,4 +436,14 @@ Text Label 6950 2850 0    60   ~ 0
 GND
 Text Label 4900 4200 0    60   ~ 0
 GND
+Connection ~ 6250 4550
+Connection ~ 6250 2350
+Wire Wire Line
+	7200 2350 7200 3550
+Wire Wire Line
+	7200 2350 6250 2350
+Wire Wire Line
+	7200 4150 7200 4550
+Wire Wire Line
+	7200 4550 6250 4550
 $EndSCHEMATC
