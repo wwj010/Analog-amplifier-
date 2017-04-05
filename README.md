@@ -15,4 +15,3 @@ Since I used to use Cadence to draw schematics and layout PCB, it's my first tim
 
 Known Issues:
 - When runing electrical rule checker, errors shows on 5V power supply and GND. This might be a net issue.
-- AD812 is a dual channel op amp. If both section A and B are powered and grounded, error says: pin connected to other pins.
